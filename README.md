@@ -1,5 +1,14 @@
 # RenomeiaArquivosGo
 
+
+
+# DESCONTINUADO!
+
+Novo projeto criado em: [https://github.com/micheltlutz/normalize-filenames](https://github.com/micheltlutz/normalize-filenames)
+
+----------------
+
+
 <p align="center">
   <img src="https://cdn2.hubspot.net/hubfs/3917309/old-assets/old-theme/Images/golang-gopher-laptop.png">
 </p>
